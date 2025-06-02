@@ -11,7 +11,7 @@ HTML/CSS/JS Local WebApp to control your Raspberry PI home server.
 
 ## Images / Videos
 
-https://github.com/user-attachments/assets/5135b4c0-8329-4be7-954d-9df685db7514
+![homepi_v0.1_ui](https://github.com/user-attachments/assets/854fd0eb-3c9d-41c7-bce0-9086bfcdb83b)
 
 ## Installation
 
