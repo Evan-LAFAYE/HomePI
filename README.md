@@ -25,7 +25,7 @@ This project is not ready ...
 
 ## Support
 
-For support, question, email lafaye.contact@gmail.com 
+Support is off since the repo as no release.
 
 
 ## Authors
