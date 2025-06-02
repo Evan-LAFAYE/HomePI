@@ -8,7 +8,7 @@ HTML/CSS/JS Local WebApp to control your Raspberry PI home server.
 - Live datas
 - Work with ESP32
 - Cross platform (Deck Mode)
-https://github.com/Evan-LAFAYE/HomePI/blob/main/homepi_ui_v0.1.mp4
+
 
 ## Installation
 
